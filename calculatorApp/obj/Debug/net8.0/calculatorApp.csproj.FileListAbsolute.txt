@@ -1,0 +1,14 @@
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\bin\Debug\net8.0\calculatorApp.exe
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\bin\Debug\net8.0\calculatorApp.deps.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\bin\Debug\net8.0\calculatorApp.runtimeconfig.json
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\bin\Debug\net8.0\calculatorApp.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\bin\Debug\net8.0\calculatorApp.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.AssemblyInfoInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.AssemblyInfo.cs
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\refint\calculatorApp.dll
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.pdb
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\calculatorApp.genruntimeconfig.cache
+C:\Users\Tyler\OneDrive\Desktop\C# projects\calculatorApp\obj\Debug\net8.0\ref\calculatorApp.dll
